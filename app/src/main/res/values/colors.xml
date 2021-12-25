@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#070707</color>
+    <color name="purple_500">#b71c1c</color><!--tab color-->
+    <color name="purple_700">#7f0000</color>
+    <color name="teal_200">#b71c1c</color><!--radio button color-->
+    <color name="teal_700">#b71c1c</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bordo">#E70C0C</color> <!--text color-->
+</resources>

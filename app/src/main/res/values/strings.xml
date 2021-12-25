@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TheSale</string>
+    <string name="how_many_is_the_sale">How many is the sale?</string>
+    <string name="cost_of_product">cost of product</string>
+    <string name="ten_percent">10%</string>
+    <string name="thrteen_percent">30%</string>
+    <string name="seventeen_percent">70%</string>
+    <string name="none">choose the value</string>
+    <string name="check_the_price_after_the_sale">CHECK THE PRICE AFTER THE SALE</string>
+    <string name="final_price">The  final price is: %s</string>
+    <string name="enter_valid_price">Enter valid price</string>
+    <string name="enter_price">Please enter the price</string>
+    <string name="ok">OK</string>
+    <string name="good_deal">Now you need to check if this sale is a good deal :)</string>
+
+</resources>
